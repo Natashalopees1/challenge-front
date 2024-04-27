@@ -25,7 +25,7 @@ body {
     align-items: center;
     z-index: 100;
   }
-  
+  /*Estilizando Body*/
   .logo {
     font-size: 25px;
     color: #222;
